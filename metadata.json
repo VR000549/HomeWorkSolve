@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Homework Solver",
+  "description": "Snap a photo of your homework and get instant, step-by-step solutions using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
